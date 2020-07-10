@@ -22,6 +22,6 @@ I'm **Anushka Raj**. I'm a final year Bachelors of Computer Applications student
 
 [<img target="_blank" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png">](https://www.linkedin.com/in/Anushka-raj/) 
 [<img target="_blank" src="https://img.icons8.com/color/48/000000/github-2.png">](https://www.github.com/Anushka-codergirl/) 
-[<img target="_blank" src="https://img.icons8.com/cute-clipart/64/000000/twitter.png">](https://www.twitter.com/AnushCodergirl/)
+[<img target="_blank" src="https://img.icons8.com/bubbles/50/000000/twitter.png"/>](https://www.twitter.com/AnushCodergirl/)
 [<img target="_blank" src="https://img.icons8.com/bubbles/50/000000/facebook-new.png">](https://www.facebook.com/rich1anush/)
 
