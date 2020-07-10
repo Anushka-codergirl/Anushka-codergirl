@@ -16,15 +16,15 @@ Here are some ideas to get you started:
 I'm **Anushka Raj**. I'm a final year Bachelors of Computer Applications student at Maulana Mazharul Haque Arabic and Persian University, Patna, India. I am big-time technology enthusiast. I am a quick and passionate learner. I generally attempt to learn new things. Especially I love to spend my time with my Laptop because I believe in the power of Technology: if we used it right, it could give us power and privacy.
 
 ## Coding Skills
-**Languages:**  C/C++, Java, SQL, HTML, CSS, JavaScript, , Python 
+**Languages :**  C/C++, Java, SQL, HTML, CSS, JavaScript, Python 
 
-**Libraries:** jQuery, React
+**Libraries :** jQuery, React
 
-**Frameworks:** Bootstrap
+**Frameworks :** Bootstrap
 
-**Development Environment:** VS Code 
+**Development Environment :** VS Code 
 
-**Version Control:**  GitHub
+**Version Control :**  GitHub
 
 ## 🌱 I’m currently learning :
 
