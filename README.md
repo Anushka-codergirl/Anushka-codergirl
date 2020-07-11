@@ -5,10 +5,6 @@ I'm **Anushka Raj**. I'm a final year Bachelors of Computer Applications student
 ## 👩‍💻 My Coding Skills :
 **Languages :**  C/C++, Java, SQL, HTML, CSS, JavaScript, Python 
 
-**Libraries :** jQuery, React
-
-**Frameworks :** Bootstrap
-
 **Development Environment :** VS Code 
 
 **Version Control :**  GitHub
