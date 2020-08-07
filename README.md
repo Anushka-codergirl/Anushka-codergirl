@@ -21,5 +21,3 @@ I'm **Anushka Raj**. I'm a final year Bachelors of Computer Applications student
 [<img target="_blank" src="https://img.icons8.com/bubbles/50/000000/twitter.png"/>](https://www.twitter.com/AnushCodergirl/)
 [<img target="_blank" src="https://img.icons8.com/bubbles/50/000000/facebook-new.png">](https://www.facebook.com/rich1anush/)
 [<img target="_blank" src="https://img.icons8.com/bubbles/50/000000/instagram-new.png"/>](https://www.instagram.com/anush.codergirl/)
-[<img target="_blank" src="https://tryhackme-badges.s3.amazonaws.com/anushka.png"/>](https://tryhackme.com/badge/130158"/)
-
