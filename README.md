@@ -13,6 +13,14 @@ I'm **Anushka Raj**. I'm a final year Bachelors of Computer Applications student
 
  <img src="https://img.icons8.com/bubbles/50/000000/react.png"/>
  
+ 
+<a href="https://github.com/Anushka-codergirl">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anushka-codergirl&theme=light&hide_langs_below=1" />
+</a>
+<a href="https://github.com/Anushka-codergirl">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=Anushka-codergirl&show_icons=true&theme=light&line_height=27" alt="Anushka's github stats"/>
+</a>
+ 
 ## 📫 How to reach me : 
 
 [<img src="https://img.icons8.com/bubbles/50/000000/gmail.png"/>](mailto:anush6633@gmail.com)
