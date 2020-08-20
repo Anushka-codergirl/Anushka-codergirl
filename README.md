@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+<p align="left"><img src="https://komarev.com/ghpvc/?username=Anushka-codergirl&label=Views&color=blue&style=plastic" alt="Anushka-codergirl"/></p>
 I'm **Anushka Raj**. I'm a final year Bachelors of Computer Applications student at Maulana Mazharul Haque Arabic and Persian University, Patna, India. I am big-time technology enthusias and a passionate learner. I generally attempt to learn new things. Especially I love to spend my time with my Laptop because I believe in the power of Technology: if we used it right, it could give us power and privacy.
 
 ## 👩‍💻 My Coding Skills :
@@ -13,7 +13,7 @@ I'm **Anushka Raj**. I'm a final year Bachelors of Computer Applications student
 
  <img src="https://img.icons8.com/bubbles/50/000000/react.png"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Anushka-codergirl&label=Views&color=blue&style=plastic" alt="Anushka-codergirl" /> </p>
+
 ##
 <a href="https://github.com/Anushka-codergirl">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anushka-codergirl&theme=light&hide_langs_below=1" />
