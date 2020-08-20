@@ -13,6 +13,7 @@ I'm **Anushka Raj**. I'm a final year Bachelors of Computer Applications student
 
  <img src="https://img.icons8.com/bubbles/50/000000/react.png"/>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Anushka-codergirl&label=Views&color=blue&style=plastic" alt="Anushka-codergirl" /> </p>
 ##
 <a href="https://github.com/Anushka-codergirl">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anushka-codergirl&theme=light&hide_langs_below=1" />
