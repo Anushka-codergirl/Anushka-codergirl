@@ -1,7 +1,7 @@
 ## Hi there, I'm [Anushka Raj!](https://anushka-codergirl.github.io/)<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <p align="left"><img src="https://komarev.com/ghpvc/?username=Anushka-codergirl&label=Views&color=blue&style=plastic" alt="Anushka-codergirl"/>
 <a href="https://github.com/Anushka-codergirl">
-  <img align="left" alt="Anushka's Github Followers" width="80px" src="https://img.shields.io/github/followers/Anushka-codergirl?label=Follow"/>
+  <img align="left" alt="Anushka's Github Followers" src="https://img.shields.io/github/followers/Anushka-codergirl?label=Follow"/>
 </a>
 </p>
 
