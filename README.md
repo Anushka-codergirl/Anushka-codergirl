@@ -1,7 +1,10 @@
-## Hi there, I'm [Anushka Raj!](https://anushka-codergirl.github.io/)👋
+## Hi there, I'm [Anushka Raj!](https://anushka-codergirl.github.io/)<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <p align="left"><img src="https://komarev.com/ghpvc/?username=Anushka-codergirl&label=Views&color=blue&style=plastic" alt="Anushka-codergirl"/></p>
+<a href="https://github.com/Anushka-codergirl">
+  <img align="left" alt="Anushka's Github Followers" width="80px" src="https://img.shields.io/github/followers/Anushka-codergirl?label=Follow&style=social" />
+</a>
 
-I'm a final year Bachelors of Computer Applications student at Maulana Mazharul Haque Arabic and Persian University, Patna, India. I am a big-time technology enthusiast and a passionate learner. I generally attempt to learn new things. Especially I love to spend my time with my Laptop because I believe in the power of Technology: if we used it right, it could give us power and privacy.
+I'm a final year Bachelors of Computer Applications student at Maulana Mazharul Haque Arabic and Persian University, Patna, India. I am a big-time technology enthusiast and a passionate learner. I generally attempt to learn new things. I'm extremely dynamic via web-based networking media, and attempt to persuade more individuals to join the tech world by indicating what my life resembles in this community.
 
 ## 👩‍💻 My Coding Skills :
 **Languages :**  C/C++, Java, SQL, HTML, CSS, JavaScript, Python 
@@ -15,13 +18,16 @@ I'm a final year Bachelors of Computer Applications student at Maulana Mazharul 
  <img src="https://img.icons8.com/bubbles/50/000000/react.png"/>
 
 
-##
+## My GitHub Stats
 <a href="https://github.com/Anushka-codergirl">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anushka-codergirl&theme=light&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anushka-codergirl&theme=tokyonight&hide_langs_below=1" />
 </a>
 <a href="https://github.com/Anushka-codergirl">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=Anushka-codergirl&show_icons=true&theme=light&line_height=27" alt="Anushka's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=Anushka-codergirl&show_icons=true&theme=tokyonight&line_height=27" alt="Anushka's github stats"/>
 </a>
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Anushka-codergirl&theme=tokyonight)  
+[![trophy](https://github-profile-trophy.vercel.app/?username=Anushka-codergirl&theme=tokyonight&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+<br/>
  
 ## 📫 How to reach me : 
 
