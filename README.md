@@ -1,7 +1,7 @@
 ## Hi there, I'm [Anushka Raj!](https://anushka-codergirl.github.io/)<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <p align="left"><img src="https://komarev.com/ghpvc/?username=Anushka-codergirl&label=Views&color=blue&style=plastic" alt="Anushka-codergirl"/>
 <a href="https://github.com/Anushka-codergirl">
-  <img align="left" alt="Anushka's Github Followers" width="80px" src="https://img.shields.io/github/followers/Anushka-codergirl?label=Follow&style=social"/>
+  <img align="left" alt="Anushka's Github Followers" width="80px" src="https://img.shields.io/github/followers/Anushka-codergirl?label=Follow"/>
 </a>
 </p>
 
@@ -28,8 +28,10 @@ I'm a final year Bachelors of Computer Applications student at Maulana Mazharul 
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Anushka-codergirl&show_icons=true&theme=tokyonight&line_height=27" alt="Anushka's github stats"/>
 </a>
 
+## My Github Streak
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Anushka-codergirl&theme=tokyonight)  
 
+## My Github Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=Anushka-codergirl&theme=tokyonight&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 <br/>
  
