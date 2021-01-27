@@ -28,9 +28,6 @@ I'm a final year Bachelors of Computer Applications student at Maulana Mazharul 
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Anushka-codergirl&show_icons=true&theme=tokyonight&line_height=27" alt="Anushka's github stats"/>
 </a>
 
-## My Github Streak
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Anushka-codergirl&theme=tokyonight)  
-
 ## My Github Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=Anushka-codergirl&theme=monokai&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 <br/>
