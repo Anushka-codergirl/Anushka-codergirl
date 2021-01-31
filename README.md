@@ -17,8 +17,8 @@ I'm a final year Bachelors of Computer Applications student at Maulana Mazharul 
 
 ## 🌱 I’m currently learning :
 
- <img src="https://img.icons8.com/bubbles/50/000000/react.png"/>
- <img src="https://img.icons8.com/color/48/000000/azure-1.png"/>
+[<img src="https://img.icons8.com/plasticine/100/000000/react.png"/>](https://reactjs.org/)
+[<img src="https://img.icons8.com/color/48/000000/azure-1.png"/>](https://azure.microsoft.com/en-us/)
 
 
 ## My GitHub Stats
