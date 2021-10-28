@@ -37,6 +37,9 @@ I am a big-time technology enthusiast and a passionate learner. I generally atte
 [![trophy](https://github-profile-trophy.vercel.app/?username=Anushka-codergirl&theme=monokai&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 <br/>
  
+## ⚡ Recent Activity
+<!--START_SECTION:activity-->
+ 
 ## 📫 How to reach me : 
 
 [<img src="https://img.icons8.com/bubbles/50/000000/gmail.png"/>](mailto:anushcodergirl@gmail.com)
