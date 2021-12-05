@@ -13,14 +13,12 @@ I am a big-time technology enthusiast and a passionate learner. I generally atte
 
 **Development Environment :** VS Code 
 
-**Version Control :**  GitHub
+**Version Control :**  Git, GitHub
 
 ## 🌱 I’m currently learning :
 
 [<img src="https://img.icons8.com/color/48/000000/react-native.png"/>](https://reactjs.org/)
 [<img src="https://img.icons8.com/color/48/000000/azure-1.png"/>](https://azure.microsoft.com/en-us/)
-[<img src="https://img.icons8.com/color/48/000000/flutter.png"/>](https://flutter.dev/)
-
 
 ## My GitHub Stats
 <a href="https://github.com/Anushka-codergirl">
