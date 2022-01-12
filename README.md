@@ -37,11 +37,11 @@ I am a big-time technology enthusiast and a passionate learner. I generally atte
  
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#499](https://github.com/Semantic-Org/Semantic-UI/issues/499) in [Semantic-Org/Semantic-UI](https://github.com/Semantic-Org/Semantic-UI)
-2. 🎉 Merged PR [#2](https://github.com/Cool-Creative-Dev-Space/Welcome/pull/2) in [Cool-Creative-Dev-Space/Welcome](https://github.com/Cool-Creative-Dev-Space/Welcome)
-3. 💪 Opened PR [#2](https://github.com/Cool-Creative-Dev-Space/Welcome/pull/2) in [Cool-Creative-Dev-Space/Welcome](https://github.com/Cool-Creative-Dev-Space/Welcome)
-4. 🎉 Merged PR [#52](https://github.com/Anushka-codergirl/Java-Programs/pull/52) in [Anushka-codergirl/Java-Programs](https://github.com/Anushka-codergirl/Java-Programs)
-5. 🎉 Merged PR [#53](https://github.com/Anushka-codergirl/Java-Programs/pull/53) in [Anushka-codergirl/Java-Programs](https://github.com/Anushka-codergirl/Java-Programs)
+1. 💪 Opened PR [#962](https://github.com/EddieHubCommunity/awesome-github-profiles/pull/962) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
+2. ❗️ Opened issue [#961](https://github.com/EddieHubCommunity/awesome-github-profiles/issues/961) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
+3. 🗣 Commented on [#499](https://github.com/Semantic-Org/Semantic-UI/issues/499) in [Semantic-Org/Semantic-UI](https://github.com/Semantic-Org/Semantic-UI)
+4. 🎉 Merged PR [#2](https://github.com/Cool-Creative-Dev-Space/Welcome/pull/2) in [Cool-Creative-Dev-Space/Welcome](https://github.com/Cool-Creative-Dev-Space/Welcome)
+5. 💪 Opened PR [#2](https://github.com/Cool-Creative-Dev-Space/Welcome/pull/2) in [Cool-Creative-Dev-Space/Welcome](https://github.com/Cool-Creative-Dev-Space/Welcome)
 <!--END_SECTION:activity-->
  
 ## 📫 How to reach me : 
