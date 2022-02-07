@@ -30,19 +30,6 @@ I am a big-time technology enthusiast and a passionate learner. I generally atte
 
 ## My GitHub Streak
 ![github-streak](https://github-readme-streak-stats.herokuapp.com/?user=Anushka-codergirl&theme=tokyonight)
-
-## My GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=Anushka-codergirl&theme=monokai&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
-<br/>
- 
-## ⚡ Recent Activity
-<!--START_SECTION:activity-->
-1. 💪 Opened PR [#962](https://github.com/EddieHubCommunity/awesome-github-profiles/pull/962) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
-2. ❗️ Opened issue [#961](https://github.com/EddieHubCommunity/awesome-github-profiles/issues/961) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
-3. 🗣 Commented on [#499](https://github.com/Semantic-Org/Semantic-UI/issues/499) in [Semantic-Org/Semantic-UI](https://github.com/Semantic-Org/Semantic-UI)
-4. 🎉 Merged PR [#2](https://github.com/Cool-Creative-Dev-Space/Welcome/pull/2) in [Cool-Creative-Dev-Space/Welcome](https://github.com/Cool-Creative-Dev-Space/Welcome)
-5. 💪 Opened PR [#2](https://github.com/Cool-Creative-Dev-Space/Welcome/pull/2) in [Cool-Creative-Dev-Space/Welcome](https://github.com/Cool-Creative-Dev-Space/Welcome)
-<!--END_SECTION:activity-->
  
 ## 📫 How to reach me : 
 
@@ -54,3 +41,14 @@ I am a big-time technology enthusiast and a passionate learner. I generally atte
 [<img target="_blank" src="https://img.icons8.com/bubbles/50/000000/instagram-new.png"/>](https://www.instagram.com/anush.codergirl/)
 [<img target="_blank" src="https://img.icons8.com/bubbles/50/000000/discord-logo.png"/>](https://discord.com/users/anush.codergirl#8872)
 [<img target="_blank" src="https://img.icons8.com/bubbles/50/000000/google-logo.png"/>](https://bit.ly/3o0wkSM)
+ 
+## ⚡ Recent Activity
+<!--START_SECTION:activity-->
+1. 💪 Opened PR [#962](https://github.com/EddieHubCommunity/awesome-github-profiles/pull/962) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
+2. ❗️ Opened issue [#961](https://github.com/EddieHubCommunity/awesome-github-profiles/issues/961) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
+3. 🗣 Commented on [#499](https://github.com/Semantic-Org/Semantic-UI/issues/499) in [Semantic-Org/Semantic-UI](https://github.com/Semantic-Org/Semantic-UI)
+4. 🎉 Merged PR [#2](https://github.com/Cool-Creative-Dev-Space/Welcome/pull/2) in [Cool-Creative-Dev-Space/Welcome](https://github.com/Cool-Creative-Dev-Space/Welcome)
+5. 💪 Opened PR [#2](https://github.com/Cool-Creative-Dev-Space/Welcome/pull/2) in [Cool-Creative-Dev-Space/Welcome](https://github.com/Cool-Creative-Dev-Space/Welcome)
+<!--END_SECTION:activity-->
+ 
+
