@@ -73,7 +73,7 @@
  
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#962](https://github.com/EddieHubCommunity/awesome-github-profiles/pull/962) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
+1. 🗣 Commented on [#961](https://github.com/EddieHubCommunity/awesome-github-profiles/issues/961) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
 2. ❗️ Opened issue [#961](https://github.com/EddieHubCommunity/awesome-github-profiles/issues/961) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
 3. 🗣 Commented on [#499](https://github.com/Semantic-Org/Semantic-UI/issues/499) in [Semantic-Org/Semantic-UI](https://github.com/Semantic-Org/Semantic-UI)
 4. 🎉 Merged PR [#2](https://github.com/Cool-Creative-Dev-Space/Welcome/pull/2) in [Cool-Creative-Dev-Space/Welcome](https://github.com/Cool-Creative-Dev-Space/Welcome)
