@@ -1,4 +1,4 @@
-## Hi there, I'm [Anushka Raj!](https://anushka-codergirl.github.io/)<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+## Hi there, I'm [Anushka Raj!](https://anushka-codergirl.github.io/)<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" height="25">
 <p align="left">
 <a href="https://twitter.com/AnushCodergirl" target="blank"><img src="https://img.shields.io/twitter/follow/AnushCodergirl?logo=twitter&style=for-the-badge" alt="Anushka Raj's Twitter" /></a>
 </p>
@@ -64,8 +64,8 @@
 
 [<img src="https://img.icons8.com/bubbles/50/000000/gmail.png"/>](mailto:anushcodergirl@gmail.com)
 [<img target="_blank" src="https://img.icons8.com/bubbles/50/000000/linkedin.png"/>](https://www.linkedin.com/in/Anushka-raj/) 
-[<img target="_blank" src="https://img.icons8.com/bubbles/50/000000/github.png">](https://www.github.com/Anushka-codergirl/) 
-[<img target="_blank" src="https://img.icons8.com/bubbles/50/000000/twitter.png"/>](https://www.twitter.com/AnushCodergirl/)
+[<img target="_blank" src="https://img.icons8.com/bubbles/50/000000/github.png"/>](https://www.github.com/Anushka-codergirl/) 
+[<img target="_blank" src="https://img.icons8.com/bubbles/50/undefined/twitter-circled.png"/>](https://www.twitter.com/AnushCodergirl/)
 [<img target="_blank" src="https://img.icons8.com/bubbles/50/000000/facebook-new.png">](https://www.facebook.com/anush.codergirl/)
 [<img target="_blank" src="https://img.icons8.com/bubbles/50/000000/instagram-new.png"/>](https://www.instagram.com/anush.codergirl/)
 [<img target="_blank" src="https://img.icons8.com/bubbles/50/000000/discord-logo.png"/>](https://discord.com/users/anush.codergirl#8872)
