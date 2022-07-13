@@ -1,4 +1,4 @@
-## Hi there, I'm [Anushka Raj!](https://anushka-codergirl.github.io/)<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" height="25">
+## Hi there! (https://anushka-codergirl.github.io/)<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" height="25">
 <p align="left">
 <a href="https://twitter.com/AnushCodergirl" target="blank"><img src="https://img.shields.io/twitter/follow/AnushCodergirl?logo=twitter&style=for-the-badge" alt="Anushka Raj's Twitter" /></a>
 </p>
