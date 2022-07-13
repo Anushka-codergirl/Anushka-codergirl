@@ -48,6 +48,8 @@
 
 [<img src="https://img.icons8.com/color/48/000000/react-native.png"/>](https://reactjs.org/)
 [<img src="https://img.icons8.com/color/48/000000/azure-1.png"/>](https://azure.microsoft.com/en-us/)
+[<img src="https://img.icons8.com/color/48/000000/docker.png"/>](https://www.docker.com/)
+
 
 ## My GitHub Stats
 <a href="https://github.com/Anushka-codergirl">
