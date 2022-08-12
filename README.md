@@ -75,11 +75,11 @@
  
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1583](https://github.com/EddieHubCommunity/LinkFree/issues/1583) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
-2. 💪 Opened PR [#1583](https://github.com/EddieHubCommunity/LinkFree/pull/1583) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
-3. 🗣 Commented on [#499](https://github.com/Semantic-Org/Semantic-UI/issues/499) in [Semantic-Org/Semantic-UI](https://github.com/Semantic-Org/Semantic-UI)
-4. 🎉 Merged PR [#2](https://github.com/Cool-Creative-Dev-Space/Welcome/pull/2) in [Cool-Creative-Dev-Space/Welcome](https://github.com/Cool-Creative-Dev-Space/Welcome)
-5. 💪 Opened PR [#2](https://github.com/Cool-Creative-Dev-Space/Welcome/pull/2) in [Cool-Creative-Dev-Space/Welcome](https://github.com/Cool-Creative-Dev-Space/Welcome)
+1. 🗣 Commented on [#4](https://github.com/Anushka-codergirl/github-move/issues/4) in [Anushka-codergirl/github-move](https://github.com/Anushka-codergirl/github-move)
+2. ❌ Closed PR [#6](https://github.com/Anushka-codergirl/security-strategy-essentials/pull/6) in [Anushka-codergirl/security-strategy-essentials](https://github.com/Anushka-codergirl/security-strategy-essentials)
+3. ❌ Closed PR [#5](https://github.com/Anushka-codergirl/security-strategy-essentials/pull/5) in [Anushka-codergirl/security-strategy-essentials](https://github.com/Anushka-codergirl/security-strategy-essentials)
+4. ❌ Closed PR [#4](https://github.com/Anushka-codergirl/security-strategy-essentials/pull/4) in [Anushka-codergirl/security-strategy-essentials](https://github.com/Anushka-codergirl/security-strategy-essentials)
+5. 🎉 Merged PR [#1](https://github.com/Anushka-codergirl/my-static-blazor-app/pull/1) in [Anushka-codergirl/my-static-blazor-app](https://github.com/Anushka-codergirl/my-static-blazor-app)
 <!--END_SECTION:activity-->
  
 
