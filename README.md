@@ -75,11 +75,11 @@
  
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4](https://github.com/Anushka-codergirl/github-move/issues/4) in [Anushka-codergirl/github-move](https://github.com/Anushka-codergirl/github-move)
-2. ❌ Closed PR [#6](https://github.com/Anushka-codergirl/security-strategy-essentials/pull/6) in [Anushka-codergirl/security-strategy-essentials](https://github.com/Anushka-codergirl/security-strategy-essentials)
-3. ❌ Closed PR [#5](https://github.com/Anushka-codergirl/security-strategy-essentials/pull/5) in [Anushka-codergirl/security-strategy-essentials](https://github.com/Anushka-codergirl/security-strategy-essentials)
-4. ❌ Closed PR [#4](https://github.com/Anushka-codergirl/security-strategy-essentials/pull/4) in [Anushka-codergirl/security-strategy-essentials](https://github.com/Anushka-codergirl/security-strategy-essentials)
-5. 🎉 Merged PR [#1](https://github.com/Anushka-codergirl/my-static-blazor-app/pull/1) in [Anushka-codergirl/my-static-blazor-app](https://github.com/Anushka-codergirl/my-static-blazor-app)
+1. 💪 Opened PR [#29](https://github.com/Pradumnasaraf/Wish-Eddie/pull/29) in [Pradumnasaraf/Wish-Eddie](https://github.com/Pradumnasaraf/Wish-Eddie)
+2. 🗣 Commented on [#4](https://github.com/Anushka-codergirl/github-move/issues/4) in [Anushka-codergirl/github-move](https://github.com/Anushka-codergirl/github-move)
+3. ❌ Closed PR [#6](https://github.com/Anushka-codergirl/security-strategy-essentials/pull/6) in [Anushka-codergirl/security-strategy-essentials](https://github.com/Anushka-codergirl/security-strategy-essentials)
+4. ❌ Closed PR [#5](https://github.com/Anushka-codergirl/security-strategy-essentials/pull/5) in [Anushka-codergirl/security-strategy-essentials](https://github.com/Anushka-codergirl/security-strategy-essentials)
+5. ❌ Closed PR [#4](https://github.com/Anushka-codergirl/security-strategy-essentials/pull/4) in [Anushka-codergirl/security-strategy-essentials](https://github.com/Anushka-codergirl/security-strategy-essentials)
 <!--END_SECTION:activity-->
  
 
