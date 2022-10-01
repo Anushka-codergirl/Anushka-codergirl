@@ -75,11 +75,11 @@
  
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#327](https://github.com/codinasion/program/pull/327) in [codinasion/program](https://github.com/codinasion/program)
-2. 🗣 Commented on [#87](https://github.com/codinasion/program/issues/87) in [codinasion/program](https://github.com/codinasion/program)
-3. 🗣 Commented on [#278](https://github.com/codinasion/program/issues/278) in [codinasion/program](https://github.com/codinasion/program)
-4. ❌ Closed PR [#55076](https://github.com/firstcontributions/first-contributions/pull/55076) in [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions)
-5. 🗣 Commented on [#1842](https://github.com/EddieHubCommunity/LinkFree/issues/1842) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
+1. 🗣 Commented on [#327](https://github.com/codinasion/program/issues/327) in [codinasion/program](https://github.com/codinasion/program)
+2. 💪 Opened PR [#327](https://github.com/codinasion/program/pull/327) in [codinasion/program](https://github.com/codinasion/program)
+3. 🗣 Commented on [#87](https://github.com/codinasion/program/issues/87) in [codinasion/program](https://github.com/codinasion/program)
+4. 🗣 Commented on [#278](https://github.com/codinasion/program/issues/278) in [codinasion/program](https://github.com/codinasion/program)
+5. ❌ Closed PR [#55076](https://github.com/firstcontributions/first-contributions/pull/55076) in [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions)
 <!--END_SECTION:activity-->
  
 
