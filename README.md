@@ -75,11 +75,11 @@
  
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#55076](https://github.com/firstcontributions/first-contributions/pull/55076) in [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions)
-2. 💪 Opened PR [#101](https://github.com/gdscwce/Indian-Web-Series-API/pull/101) in [gdscwce/Indian-Web-Series-API](https://github.com/gdscwce/Indian-Web-Series-API)
-3. 💪 Opened PR [#59](https://github.com/pluralsight-projects/PythonFlask-JobBoard/pull/59) in [pluralsight-projects/PythonFlask-JobBoard](https://github.com/pluralsight-projects/PythonFlask-JobBoard)
-4. 💪 Opened PR [#29](https://github.com/Pradumnasaraf/Wish-Eddie/pull/29) in [Pradumnasaraf/Wish-Eddie](https://github.com/Pradumnasaraf/Wish-Eddie)
-5. 🗣 Commented on [#4](https://github.com/Anushka-codergirl/github-move/issues/4) in [Anushka-codergirl/github-move](https://github.com/Anushka-codergirl/github-move)
+1. ❌ Closed PR [#55076](https://github.com/firstcontributions/first-contributions/pull/55076) in [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions)
+2. 🗣 Commented on [#1842](https://github.com/EddieHubCommunity/LinkFree/issues/1842) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
+3. 💪 Opened PR [#1842](https://github.com/EddieHubCommunity/LinkFree/pull/1842) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
+4. 💪 Opened PR [#55076](https://github.com/firstcontributions/first-contributions/pull/55076) in [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions)
+5. 💪 Opened PR [#101](https://github.com/gdscwce/Indian-Web-Series-API/pull/101) in [gdscwce/Indian-Web-Series-API](https://github.com/gdscwce/Indian-Web-Series-API)
 <!--END_SECTION:activity-->
  
 
