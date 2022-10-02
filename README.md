@@ -75,11 +75,11 @@
  
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#50](https://github.com/codinasion/.github/issues/50) in [codinasion/.github](https://github.com/codinasion/.github)
-2. 🗣 Commented on [#327](https://github.com/codinasion/program/issues/327) in [codinasion/program](https://github.com/codinasion/program)
-3. 💪 Opened PR [#327](https://github.com/codinasion/program/pull/327) in [codinasion/program](https://github.com/codinasion/program)
-4. 🗣 Commented on [#87](https://github.com/codinasion/program/issues/87) in [codinasion/program](https://github.com/codinasion/program)
-5. 🗣 Commented on [#278](https://github.com/codinasion/program/issues/278) in [codinasion/program](https://github.com/codinasion/program)
+1. 💪 Opened PR [#28](https://github.com/its-puneet/Geeky-Coders/pull/28) in [its-puneet/Geeky-Coders](https://github.com/its-puneet/Geeky-Coders)
+2. ❗️ Opened issue [#50](https://github.com/codinasion/.github/issues/50) in [codinasion/.github](https://github.com/codinasion/.github)
+3. 🗣 Commented on [#327](https://github.com/codinasion/program/issues/327) in [codinasion/program](https://github.com/codinasion/program)
+4. 💪 Opened PR [#327](https://github.com/codinasion/program/pull/327) in [codinasion/program](https://github.com/codinasion/program)
+5. 🗣 Commented on [#87](https://github.com/codinasion/program/issues/87) in [codinasion/program](https://github.com/codinasion/program)
 <!--END_SECTION:activity-->
  
 
