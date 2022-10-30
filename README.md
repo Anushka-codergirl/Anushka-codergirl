@@ -75,11 +75,11 @@
  
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#88](https://github.com/Anushka-codergirl/Java/issues/88) in [Anushka-codergirl/Java](https://github.com/Anushka-codergirl/Java)
-2. 🎉 Merged PR [#88](https://github.com/Anushka-codergirl/Java/pull/88) in [Anushka-codergirl/Java](https://github.com/Anushka-codergirl/Java)
-3. 🎉 Merged PR [#87](https://github.com/Anushka-codergirl/Java/pull/87) in [Anushka-codergirl/Java](https://github.com/Anushka-codergirl/Java)
-4. 💪 Opened PR [#87](https://github.com/Anushka-codergirl/Java/pull/87) in [Anushka-codergirl/Java](https://github.com/Anushka-codergirl/Java)
-5. 🗣 Commented on [#83](https://github.com/Anushka-codergirl/Java/issues/83) in [Anushka-codergirl/Java](https://github.com/Anushka-codergirl/Java)
+1. 🗣 Commented on [#89](https://github.com/Anushka-codergirl/Java/issues/89) in [Anushka-codergirl/Java](https://github.com/Anushka-codergirl/Java)
+2. 🎉 Merged PR [#89](https://github.com/Anushka-codergirl/Java/pull/89) in [Anushka-codergirl/Java](https://github.com/Anushka-codergirl/Java)
+3. 🗣 Commented on [#88](https://github.com/Anushka-codergirl/Java/issues/88) in [Anushka-codergirl/Java](https://github.com/Anushka-codergirl/Java)
+4. 🎉 Merged PR [#88](https://github.com/Anushka-codergirl/Java/pull/88) in [Anushka-codergirl/Java](https://github.com/Anushka-codergirl/Java)
+5. 🎉 Merged PR [#87](https://github.com/Anushka-codergirl/Java/pull/87) in [Anushka-codergirl/Java](https://github.com/Anushka-codergirl/Java)
 <!--END_SECTION:activity-->
  
 
