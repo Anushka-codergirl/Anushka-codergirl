@@ -75,11 +75,11 @@
  
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#2673](https://github.com/EddieHubCommunity/LinkFree/issues/2673) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
-2. 🎉 Merged PR [#2](https://github.com/Anushka-codergirl/Python-Programs/pull/2) in [Anushka-codergirl/Python-Programs](https://github.com/Anushka-codergirl/Python-Programs)
-3. 💪 Opened PR [#2](https://github.com/Anushka-codergirl/Python-Programs/pull/2) in [Anushka-codergirl/Python-Programs](https://github.com/Anushka-codergirl/Python-Programs)
-4. 🗣 Commented on [#89](https://github.com/Anushka-codergirl/Java/issues/89) in [Anushka-codergirl/Java](https://github.com/Anushka-codergirl/Java)
-5. 🎉 Merged PR [#89](https://github.com/Anushka-codergirl/Java/pull/89) in [Anushka-codergirl/Java](https://github.com/Anushka-codergirl/Java)
+1. 💪 Opened PR [#3102](https://github.com/EddieHubCommunity/LinkFree/pull/3102) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
+2. ❗️ Opened issue [#2673](https://github.com/EddieHubCommunity/LinkFree/issues/2673) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
+3. 🎉 Merged PR [#2](https://github.com/Anushka-codergirl/Python-Programs/pull/2) in [Anushka-codergirl/Python-Programs](https://github.com/Anushka-codergirl/Python-Programs)
+4. 💪 Opened PR [#2](https://github.com/Anushka-codergirl/Python-Programs/pull/2) in [Anushka-codergirl/Python-Programs](https://github.com/Anushka-codergirl/Python-Programs)
+5. 🗣 Commented on [#89](https://github.com/Anushka-codergirl/Java/issues/89) in [Anushka-codergirl/Java](https://github.com/Anushka-codergirl/Java)
 <!--END_SECTION:activity-->
  
 
