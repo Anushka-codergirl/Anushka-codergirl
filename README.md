@@ -51,14 +51,6 @@
 [<img src="https://img.icons8.com/color/48/000000/docker.png"/>](https://www.docker.com/)
 
 
-## My GitHub Stats
-<a href="https://github.com/Anushka-codergirl">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anushka-codergirl&theme=tokyonight&hide_langs_below=1" />
-</a>
-<a href="https://github.com/Anushka-codergirl">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=Anushka-codergirl&show_icons=true&theme=tokyonight&line_height=27" alt="Anushka's github stats"/>
-</a>
-
 ## My GitHub Streak
 ![github-streak](https://github-readme-streak-stats.herokuapp.com/?user=Anushka-codergirl&theme=tokyonight)
  
