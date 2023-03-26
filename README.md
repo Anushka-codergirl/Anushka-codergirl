@@ -63,11 +63,11 @@
  
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#7126](https://github.com/EddieHubCommunity/support/issues/7126) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-2. 🎉 Merged PR [#91](https://github.com/Anushka-codergirl/Java/pull/91) in [Anushka-codergirl/Java](https://github.com/Anushka-codergirl/Java)
-3. 🗣 Commented on [#82](https://github.com/Anushka-codergirl/Java/issues/82) in [Anushka-codergirl/Java](https://github.com/Anushka-codergirl/Java)
-4. 🎉 Merged PR [#90](https://github.com/Anushka-codergirl/Java/pull/90) in [Anushka-codergirl/Java](https://github.com/Anushka-codergirl/Java)
-5. 💪 Opened PR [#3102](https://github.com/EddieHubCommunity/LinkFree/pull/3102) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
+1. ❗️ Closed issue [#7126](https://github.com/EddieHubCommunity/support/issues/7126) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+2. ❗️ Opened issue [#7126](https://github.com/EddieHubCommunity/support/issues/7126) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+3. 🎉 Merged PR [#91](https://github.com/Anushka-codergirl/Java/pull/91) in [Anushka-codergirl/Java](https://github.com/Anushka-codergirl/Java)
+4. 🗣 Commented on [#82](https://github.com/Anushka-codergirl/Java/issues/82) in [Anushka-codergirl/Java](https://github.com/Anushka-codergirl/Java)
+5. 🎉 Merged PR [#90](https://github.com/Anushka-codergirl/Java/pull/90) in [Anushka-codergirl/Java](https://github.com/Anushka-codergirl/Java)
 <!--END_SECTION:activity-->
  
 
