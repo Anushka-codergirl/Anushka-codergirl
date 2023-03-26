@@ -50,10 +50,6 @@
 [<img src="https://img.icons8.com/color/48/000000/azure-1.png"/>](https://azure.microsoft.com/en-us/)
 [<img src="https://img.icons8.com/color/48/000000/docker.png"/>](https://www.docker.com/)
 
-
-## My GitHub Streak
-![github-streak](https://github-readme-streak-stats.herokuapp.com/?user=Anushka-codergirl&theme=tokyonight)
- 
 ## ✨ How to reach me : 
 
 [<img src="https://img.icons8.com/bubbles/50/000000/gmail.png"/>](mailto:anushcodergirl@gmail.com)
