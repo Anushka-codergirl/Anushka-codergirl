@@ -76,8 +76,8 @@
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#894](https://github.com/twitter/the-algorithm/issues/894) in [twitter/the-algorithm](https://github.com/twitter/the-algorithm)
-2. ❗️ Closed issue [#7126](https://github.com/EddieHubCommunity/support/issues/7126) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-3. ❗️ Opened issue [#7126](https://github.com/EddieHubCommunity/support/issues/7126) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+2. 🔒 Closed issue [#7126](https://github.com/EddieHubCommunity/support/issues/7126) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+3. ❗ Opened issue [#7126](https://github.com/EddieHubCommunity/support/issues/7126) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
 4. 🎉 Merged PR [#91](https://github.com/Anushka-codergirl/Java/pull/91) in [Anushka-codergirl/Java](https://github.com/Anushka-codergirl/Java)
 5. 🗣 Commented on [#82](https://github.com/Anushka-codergirl/Java/issues/82) in [Anushka-codergirl/Java](https://github.com/Anushka-codergirl/Java)
 <!--END_SECTION:activity-->
