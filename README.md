@@ -72,6 +72,7 @@
 [<img target="_blank" src="https://img.icons8.com/bubbles/50/000000/instagram-new.png"/>](https://www.instagram.com/anush.codergirl/)
 [<img target="_blank" src="https://img.icons8.com/bubbles/50/000000/discord-logo.png"/>](https://discord.com/users/anush.codergirl#8872)
 [<img target="_blank" src="https://img.icons8.com/bubbles/50/000000/google-logo.png"/>](https://bit.ly/3o0wkSM)
+[<img target="_blank" src="https://img.icons8.com/bubbles/50/000000/youtube.png"/>](https://www.youtube.com/@RajAnushka/)
  
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
