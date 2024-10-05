@@ -57,7 +57,7 @@
 
 ## 🌱 I’m currently learning :
 
-[<img src="https://img.icons8.com/color/48/000000/react-native.png"/>](https://reactjs.org/)=
+[<img src="https://img.icons8.com/color/48/000000/react-native.png"/>](https://reactjs.org/)
 [<img src="https://img.icons8.com/color/48/000000/docker.png"/>](https://www.docker.com/)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" height="48"/>](https://www.mongodb.com/)
 
