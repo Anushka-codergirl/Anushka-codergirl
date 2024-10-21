@@ -76,11 +76,11 @@
  
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#7592](https://github.com/EddieHubCommunity/LinkFree/issues/7592) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
-2. 🔒 Closed issue [#82](https://github.com/Anushka-codergirl/Java/issues/82) in [Anushka-codergirl/Java](https://github.com/Anushka-codergirl/Java)
-3. 🗣 Commented on [#894](https://github.com/twitter/the-algorithm/issues/894) in [twitter/the-algorithm](https://github.com/twitter/the-algorithm)
-4. 🔒 Closed issue [#7126](https://github.com/EddieHubCommunity/support/issues/7126) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-5. ❗ Opened issue [#7126](https://github.com/EddieHubCommunity/support/issues/7126) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+1. 💪 Opened PR [#5](https://github.com/surya7765/recipeapp/pull/5) in [surya7765/recipeapp](https://github.com/surya7765/recipeapp)
+2. 🔒 Closed issue [#3](https://github.com/surya7765/recipeapp/issues/3) in [surya7765/recipeapp](https://github.com/surya7765/recipeapp)
+3. 💪 Opened PR [#4](https://github.com/surya7765/recipeapp/pull/4) in [surya7765/recipeapp](https://github.com/surya7765/recipeapp)
+4. 🗣 Commented on [#3](https://github.com/surya7765/recipeapp/issues/3#issuecomment-2424983012) in [surya7765/recipeapp](https://github.com/surya7765/recipeapp)
+5. ❗ Opened issue [#3](https://github.com/surya7765/recipeapp/issues/3) in [surya7765/recipeapp](https://github.com/surya7765/recipeapp)
 <!--END_SECTION:activity-->
  
 
