@@ -76,11 +76,11 @@
  
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#5](https://github.com/surya7765/recipeapp/pull/5) in [surya7765/recipeapp](https://github.com/surya7765/recipeapp)
-2. 🔒 Closed issue [#3](https://github.com/surya7765/recipeapp/issues/3) in [surya7765/recipeapp](https://github.com/surya7765/recipeapp)
-3. 💪 Opened PR [#4](https://github.com/surya7765/recipeapp/pull/4) in [surya7765/recipeapp](https://github.com/surya7765/recipeapp)
-4. 🗣 Commented on [#3](https://github.com/surya7765/recipeapp/issues/3#issuecomment-2424983012) in [surya7765/recipeapp](https://github.com/surya7765/recipeapp)
-5. ❗ Opened issue [#3](https://github.com/surya7765/recipeapp/issues/3) in [surya7765/recipeapp](https://github.com/surya7765/recipeapp)
+1. ❌ Closed PR [#3](https://github.com/Anushka-codergirl/Python/pull/3) in [Anushka-codergirl/Python](https://github.com/Anushka-codergirl/Python)
+2. 🎉 Merged PR [#96](https://github.com/Anushka-codergirl/Java/pull/96) in [Anushka-codergirl/Java](https://github.com/Anushka-codergirl/Java)
+3. 🎉 Merged PR [#95](https://github.com/Anushka-codergirl/Java/pull/95) in [Anushka-codergirl/Java](https://github.com/Anushka-codergirl/Java)
+4. 💪 Opened PR [#5](https://github.com/surya7765/recipeapp/pull/5) in [surya7765/recipeapp](https://github.com/surya7765/recipeapp)
+5. 🔒 Closed issue [#3](https://github.com/surya7765/recipeapp/issues/3) in [surya7765/recipeapp](https://github.com/surya7765/recipeapp)
 <!--END_SECTION:activity-->
  
 
