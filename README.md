@@ -76,11 +76,11 @@
  
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#13](https://github.com/ml-comm/ddns/pull/13#issuecomment-2467440326) in [ml-comm/ddns](https://github.com/ml-comm/ddns)
-2. ❗ Opened issue [#14](https://github.com/ml-comm/ddns/issues/14) in [ml-comm/ddns](https://github.com/ml-comm/ddns)
-3. 💪 Opened PR [#13](https://github.com/ml-comm/ddns/pull/13) in [ml-comm/ddns](https://github.com/ml-comm/ddns)
-4. ❌ Closed PR [#3](https://github.com/Anushka-codergirl/Python/pull/3) in [Anushka-codergirl/Python](https://github.com/Anushka-codergirl/Python)
-5. 🎉 Merged PR [#96](https://github.com/Anushka-codergirl/Java/pull/96) in [Anushka-codergirl/Java](https://github.com/Anushka-codergirl/Java)
+1. 🗣 Commented on [#13](https://github.com/ml-comm/ddns/pull/13#issuecomment-2468220144) in [ml-comm/ddns](https://github.com/ml-comm/ddns)
+2. 🗣 Commented on [#13](https://github.com/ml-comm/ddns/pull/13#issuecomment-2467440326) in [ml-comm/ddns](https://github.com/ml-comm/ddns)
+3. ❗ Opened issue [#14](https://github.com/ml-comm/ddns/issues/14) in [ml-comm/ddns](https://github.com/ml-comm/ddns)
+4. 💪 Opened PR [#13](https://github.com/ml-comm/ddns/pull/13) in [ml-comm/ddns](https://github.com/ml-comm/ddns)
+5. ❌ Closed PR [#3](https://github.com/Anushka-codergirl/Python/pull/3) in [Anushka-codergirl/Python](https://github.com/Anushka-codergirl/Python)
 <!--END_SECTION:activity-->
  
 
