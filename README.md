@@ -73,6 +73,9 @@
 [<img target="_blank" src="https://img.icons8.com/bubbles/50/000000/google-logo.png"/>](https://bit.ly/3o0wkSM)
 [<img target="_blank" src="https://img.icons8.com/bubbles/50/000000/youtube.png"/>](https://www.youtube.com/@RajAnushka/)
 [<img src="https://tryhackme-badges.s3.amazonaws.com/anushka.png" alt="TryHackMe">](https://tryhackme.com/p/anushka)
+
+
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/anushcodergirl)
  
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
